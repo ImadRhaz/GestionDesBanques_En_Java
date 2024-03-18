@@ -1,0 +1,1 @@
+Projet Java de gestion de compte bancaire avec des fonctionnalités de création de clients, de comptes et d'opérations bancaires, illustrant des concepts de programmation orientée objet. Utilisation de classes telles que Client, Compte et Operation pour une gestion simple et efficace.

@@ -8,7 +8,7 @@ Pour  La Class COMPTE  On a  besoin :
     + Methode getClient(): Afin d'avoir les info sur  l'operation .
     + Methode setClient(): Afin de modifier les attributs du Client  et Associer les operations au Compte .
     + Un Un attribut de Type Client
-    + On a besoin de definir Le client et l'initialiser dans le Constructeur de la class Operation
+    + On a besoin de definir Le client et l'initialiser dans le Constructeur de la class Operation car ( On dois creer le client puis creer le compte)
     
 Pour  La Class Client   On a  besoin :
 /

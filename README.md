@@ -1,5 +1,6 @@
 
-Pour COMPTE  et OPERATION :
--Pour La class Compte on a  besoin d'une List d'operation 
-    + Methode getOperation(): Afin d'avoir les info sur  l'operation
-    + Methode setOperation(): Afin de modifier les attributs de l'operation a travers la methode  addOperation(Operation operation et Associer les operations au Compte
+Pour COMPTE  On a  besoin :
+    + D'une List d'operation .
+    + Methode addOperation(Operation operation)=> A travers le type d'operation on va disigner le solde .
+    + Methode getClient(): Afin d'avoir les info sur  l'operation .
+    + Methode setClient(): Afin de modifier les attributs du Client  et Associer les operations au Compte .

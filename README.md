@@ -13,14 +13,14 @@ Pour  La Class COMPTE  On a  besoin :
 Pour  La Class Client   On a  besoin :
 /
     + Un attribut de Type Compte .
-    + Pas besoin de de le definir dans l'attribut de type Compte dans  le constructeur de la class Client 
+    + Pas besoin de de le definir dans l'attribut de type Compte dans  le constructeur de la class Client .
     + Methode getCompte(): Afin d'avoir les info sur  le compte .
     + Methode setCompte(): Afin de modifier les attributs du Compte  et Associer les Clients au Compte .
 
 Pour La Class Operation  On a  besoin :
 /
     + Un attribut de Type Compte .
-    + Pas besoin de de le definir dans le constructeur de la class Client 
+    + On a  besoin de de  definir l'attribut de la class Compte dans le constructeur de la class Operation .
     + Methode getCompte(): Afin d'avoir les info sur  le compte .
     + Methode setCompte(): Afin de modifier les attributs du Compte  et Associer les Clients au Compte .
 
